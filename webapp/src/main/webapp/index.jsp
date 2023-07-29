@@ -1,7 +1,10 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>New CADC user Register for DAC Program </h1>
-    <p>Please fill in this form to create an account Ankit.</p>
+    <marquee><h1>New CADC user Register for DAC Program </h1></marquee>
+    
+<h1>DAC Module by Ankit Kumar </h1>
+
+<p>Please fill in this form to create an account Ankit.</p>
     <hr>
      
     <label for="Name"><b>Candidate Name</b></label>
